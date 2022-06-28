@@ -1,2 +1,0 @@
-# AmalitecLanding Project
- Landing Page
